@@ -1,4 +1,4 @@
-# MyChat
+# Lobby
 
 ## Description 
 A Group video calling application using the Agora Web SDK with a Django backend.
@@ -7,7 +7,7 @@ A Group video calling application using the Agora Web SDK with a Django backend.
 
 #### 1 - Clone repo
 ```
-git clone https://github.com/divanov11/mychat
+git clone https://github.com/Parthmadan-1Lobby--a-video-calling-web-site
 ```
 
 #### 2 - Install requirements
@@ -41,5 +41,4 @@ const APP_ID = 'YOUR APP ID'
 ```
 python manage.py runserver
 ```
-
 
