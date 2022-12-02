@@ -7,7 +7,7 @@ A Group video calling application using the Agora Web SDK with a Django backend.
 
 #### 1 - Clone repo
 ```
-git clone https://github.com/Parthmadan-1Lobby--a-video-calling-web-site
+git clone https://github.com/Parthmadan-1/Lobby--a-video-calling-web-site
 ```
 
 #### 2 - Install requirements
