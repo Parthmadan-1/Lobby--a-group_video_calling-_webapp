@@ -12,7 +12,7 @@ git clone https://github.com/Parthmadan-1/Lobby--a-video-calling-web-site
 
 #### 2 - Install requirements
 ```
-cd mychat
+cd Lobby--a-video-calling-web-site
 pip install -r requirements.txt
 ```
 
